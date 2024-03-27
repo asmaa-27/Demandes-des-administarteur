@@ -1,0 +1,239 @@
+{
+  "demande": [
+    
+    {
+      "id": 2,
+      "type": "retirer tamporeirement du bac ",
+      "status": "Waiting Return",
+      "cef": "DPTVJ628",
+      "created_at": "2024-03-11T14:24:32.000000Z",
+      "updated_at": "2024-03-11T14:24:32.000000Z",
+      "stagiaire": {
+        "cef": "DPTVJ628",
+        "groupe_id": 4,
+        "filiere_id": 4,
+        "user_id": 7,
+        "created_at": "2024-03-10T23:18:23.000000Z",
+        "updated_at": "2024-03-10T23:18:23.000000Z",
+        "user": {
+          "id": 7,
+          "nom": "West",
+          "prenom": "Deshawn",
+          "email": "edgar60@example.net",
+          "role": "stagiaire",
+          "cin": "r6HsjS",
+          "created_at": "2024-03-10T23:18:23.000000Z",
+          "updated_at": "2024-03-10T23:18:23.000000Z"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "type": "retirer tamporeirement du bac ",
+      "status": "Pending",
+      "cef": "ZREIL282",
+      "created_at": "2024-03-11T14:24:32.000000Z",
+      "updated_at": "2024-03-11T14:24:32.000000Z",
+      "stagiaire": {
+        "cef": "ZREIL282",
+        "groupe_id": 6,
+        "filiere_id": 6,
+        "user_id": 20,
+        "created_at": "2024-03-10T23:18:23.000000Z",
+        "updated_at": "2024-03-10T23:18:23.000000Z",
+        "user": {
+          "id": 20,
+          "nom": "Kutch",
+          "prenom": "Boris",
+          "email": "jakubowski.grace@example.org",
+          "role": "stagiaire",
+          "cin": "56UL2s",
+          "created_at": "2024-03-10T23:18:23.000000Z",
+          "updated_at": "2024-03-10T23:18:23.000000Z"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "type": "certificat du suivi de formation",
+      "status": "Declined",
+      "cef": "LECJI579",
+      "created_at": "2024-03-11T14:24:32.000000Z",
+      "updated_at": "2024-03-11T14:24:32.000000Z",
+      "stagiaire": {
+        "cef": "LECJI579",
+        "groupe_id": 1,
+        "filiere_id": 1,
+        "user_id": 2,
+        "created_at": "2024-03-10T23:18:23.000000Z",
+        "updated_at": "2024-03-10T23:18:23.000000Z",
+        "user": {
+          "id": 2,
+          "nom": "Larkin",
+          "prenom": "Patricia",
+          "email": "eleanore.bradtke@example.net",
+          "role": "stagiaire",
+          "cin": "jD0DV9",
+          "created_at": "2024-03-10T23:18:23.000000Z",
+          "updated_at": "2024-03-10T23:18:23.000000Z"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "type": "retirer tamporeirement du bac ",
+      "status": "pending",
+      "cef": "PBNZS202",
+      "created_at": "2024-03-11T14:24:32.000000Z",
+      "updated_at": "2024-03-11T14:24:32.000000Z",
+      "stagiaire": {
+        "cef": "PBNZS202",
+        "groupe_id": 5,
+        "filiere_id": 5,
+        "user_id": 8,
+        "created_at": "2024-03-10T23:18:23.000000Z",
+        "updated_at": "2024-03-10T23:18:23.000000Z",
+        "user": {
+          "id": 8,
+          "nom": "Wilkinson",
+          "prenom": "Rocky",
+          "email": "jedediah.labadie@example.com",
+          "role": "stagiaire",
+          "cin": "YcSbdu",
+          "created_at": "2024-03-10T23:18:23.000000Z",
+          "updated_at": "2024-03-10T23:18:23.000000Z"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "type": "certificat du suivi de formation",
+      "status": "Pending",
+      "cef": "DPTVJ628",
+      "created_at": "2024-03-11T14:24:33.000000Z",
+      "updated_at": "2024-03-11T14:24:33.000000Z",
+      "stagiaire": {
+        "cef": "DPTVJ628",
+        "groupe_id": 4,
+        "filiere_id": 4,
+        "user_id": 7,
+        "created_at": "2024-03-10T23:18:23.000000Z",
+        "updated_at": "2024-03-10T23:18:23.000000Z",
+        "user": {
+          "id": 7,
+          "nom": "West",
+          "prenom": "Deshawn",
+          "email": "edgar60@example.net",
+          "role": "stagiaire",
+          "cin": "r6HsjS",
+          "created_at": "2024-03-10T23:18:23.000000Z",
+          "updated_at": "2024-03-10T23:18:23.000000Z"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "type": "retirer definitement du bac",
+      "status": "Declined",
+      "cef": "LECJI579",
+      "created_at": "2024-03-11T14:24:33.000000Z",
+      "updated_at": "2024-03-11T14:24:33.000000Z",
+      "stagiaire": {
+        "cef": "LECJI579",
+        "groupe_id": 1,
+        "filiere_id": 1,
+        "user_id": 2,
+        "created_at": "2024-03-10T23:18:23.000000Z",
+        "updated_at": "2024-03-10T23:18:23.000000Z",
+        "user": {
+          "id": 2,
+          "nom": "Larkin",
+          "prenom": "Patricia",
+          "email": "eleanore.bradtke@example.net",
+          "role": "stagiaire",
+          "cin": "jD0DV9",
+          "created_at": "2024-03-10T23:18:23.000000Z",
+          "updated_at": "2024-03-10T23:18:23.000000Z"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "type": "certificat du suivi de formation",
+      "status": "Pending",
+      "cef": "ZREIL282",
+      "created_at": "2024-03-11T14:24:33.000000Z",
+      "updated_at": "2024-03-11T14:24:33.000000Z",
+      "stagiaire": {
+        "cef": "ZREIL282",
+        "groupe_id": 6,
+        "filiere_id": 6,
+        "user_id": 20,
+        "created_at": "2024-03-10T23:18:23.000000Z",
+        "updated_at": "2024-03-10T23:18:23.000000Z",
+        "user": {
+          "id": 20,
+          "nom": "Kutch",
+          "prenom": "Boris",
+          "email": "jakubowski.grace@example.org",
+          "role": "stagiaire",
+          "cin": "56UL2s",
+          "created_at": "2024-03-10T23:18:23.000000Z",
+          "updated_at": "2024-03-10T23:18:23.000000Z"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "type": "retirer definitement du bac",
+      "status": "Pending",
+      "cef": "DPTVJ628",
+      "created_at": "2024-03-11T14:24:33.000000Z",
+      "updated_at": "2024-03-11T14:24:33.000000Z",
+      "stagiaire": {
+        "cef": "DPTVJ628",
+        "groupe_id": 4,
+        "filiere_id": 4,
+        "user_id": 7,
+        "created_at": "2024-03-10T23:18:23.000000Z",
+        "updated_at": "2024-03-10T23:18:23.000000Z",
+        "user": {
+          "id": 7,
+          "nom": "West",
+          "prenom": "Deshawn",
+          "email": "edgar60@example.net",
+          "role": "stagiaire",
+          "cin": "r6HsjS",
+          "created_at": "2024-03-10T23:18:23.000000Z",
+          "updated_at": "2024-03-10T23:18:23.000000Z"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "type": "retirer tamporeirement du bac",
+      "status": "Waiting Return",
+      "cef": "ZREIL282",
+      "created_at": "2024-03-11T14:24:33.000000Z",
+      "updated_at": "2024-03-11T14:24:33.000000Z",
+      "stagiaire": {
+        "cef": "ZREIL282",
+        "groupe_id": 6,
+        "filiere_id": 6,
+        "user_id": 20,
+        "created_at": "2024-03-10T23:18:23.000000Z",
+        "updated_at": "2024-03-10T23:18:23.000000Z",
+        "user": {
+          "id": 20,
+          "nom": "Kutch",
+          "prenom": "Boris",
+          "email": "jakubowski.grace@example.org",
+          "role": "stagiaire",
+          "cin": "56UL2s",
+          "created_at": "2024-03-10T23:18:23.000000Z",
+          "updated_at": "2024-03-10T23:18:23.000000Z"
+        }
+      }
+    }
+  ]
+}
